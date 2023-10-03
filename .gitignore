@@ -1,6 +1,7 @@
 # C extensions and C++ files
 *.so
 *.cpp
+*.png
 
 # ignore images
 01_basics/img
