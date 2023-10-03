@@ -1,3 +1,6 @@
-# C extensions
+# C extensions and C++ files
 *.so
 *.cpp
+
+# ignore images
+./01_basics/img
