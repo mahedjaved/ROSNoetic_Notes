@@ -3,4 +3,4 @@
 *.cpp
 
 # ignore images
-./01_basics/img
+/01_basics/img
